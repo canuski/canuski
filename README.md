@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # 💫 About Me:
 🔭 I’m currently working on various projects within and outside of my course.<br>👯 I’m looking to collaborate on a Unity 2D game<br>🌱 I’m currently studying It, Cyber Security & Cloud<br>💬 Ask me about any of my projects
 
